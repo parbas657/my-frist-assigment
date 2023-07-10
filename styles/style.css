@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.img-sizing{
+    width: 300px;
+   
+}
+.headline1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.btn{
+    background-color: rgb(153, 14, 14);
+    color:white ;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.nav-container{
+    height: 100vh;
+    background-color: rgb(197, 178, 171);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+
+}
+.text-description1{
+width: 300px;
+}
+
+/* part01 */
