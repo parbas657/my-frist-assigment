@@ -2,9 +2,8 @@
     margin: 0px;
     padding: 0px;
 }
-.img-sizing{
-    width: 300px;
-   
+.imeges{
+    width: 350px;
 }
 .headline1{
     font-size: 50px;
@@ -18,7 +17,6 @@
     border: none;
     border-radius: 5px;
 }
-
 .nav-container{
     height: 100vh;
     background-color: rgb(197, 178, 171);
@@ -27,10 +25,190 @@
     display: flex;
     justify-content:space-around;
     align-items: center;
-
 }
 .text-description1{
 width: 300px;
 }
+.main-version{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding-top: 20px;
+}
 
-/* part01 */
+.main-container{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.part1{
+    background-color: darkseagreen;
+    border-radius: 50% 50% 0px 0px;
+}
+.part2{
+    background-color: darkseagreen;
+    border-radius: 50% 50% 0px 0px;
+}
+.part3{
+    background-color: darkseagreen;
+    border-radius: 50% 50% 0px 0px;
+}
+.img-size{
+    width: 400px;
+    height: 400px;
+}
+.menu-style{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fast-section{
+    text-align: center;
+    color: black;
+}
+.second-section{
+    text-align: center;
+    color: black;
+}
+.last-section{
+    text-align: center;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* part 03 start */
+
+.img-sizeing{
+    width:250px;
+    height: 250px;
+}
+.main-section{
+    width:100%;
+    height:400px;
+    background-color: rgb(191, 224, 224);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+.text-styling{
+    color: rgb(153, 14, 14); 
+    font-weight: bold;
+}
+
+.mygration{
+    background-color: aqua;
+}
+
+
+/* part 03 end */
+
+/* section 04 start */
+.text-contain{
+    text-align: center;
+    padding-top: 20px;
+}
+.container{
+   height: 370px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 25px;
+    padding-top: 50px;
+}
+ .conversio{
+ width: 600;
+ height: 1200;
+
+ }
+
+.conversion{
+    width: 300px;
+    height: 500px;
+    background-color: aqua;
+}
+
+.nabigation{
+    position: absolute;
+
+}
+
+
+.nav-crontrol{
+    position: relative;
+    bottom: 200px;
+    left:600px;
+}
+.img-control{
+  margin-left: 150px;
+
+}
+.input-control{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 50px;
+    border-radius: 5px;
+    border: none;
+
+}
+
+/* section 04 end */
+
+/* footer start */
+.footer-continer{
+    margin-top: 370px;
+    background-color:black;
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+}
+
+.primary{
+   color:darksalmon;
+   font-weight: bold;
+   font-size: 35px;
+  
+   
+}
+.tex-direction{
+    text-align: center;
+}
+/* footer end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
